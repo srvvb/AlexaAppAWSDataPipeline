@@ -1,0 +1,19 @@
+ComponentAction what is the {Action} of component 
+ComponentAction get {Action} of component 
+ComponentAction {Action} of component
+ComponentAction {Action} component 
+LoadComponent search component {ComponentName}
+PipelineAction what is the {Action} of pipeline 
+PipelineAction get {Action} of pipeline 
+PipelineAction {Action} of pipeline 
+PipelineAction {Action} pipeline 
+LoadPipeline search pipeline {PipelineName}
+ExitApp {ExitCode} orange analytics
+GetConfirmation confirmation {Confirmation}
+GetPin Pin is {Pin}
+GetPin Six digit pin is {Pin}
+GetPin my pin is {Pin}
+LoadProject load project {ProjectName}
+LoadService connect {ServiceName}
+LoadService service {ServiceName}
+LoadService connect service {ServiceName}
