@@ -1,7 +1,7 @@
 # AlexaAppAWSDataPipeline
 Amazon Echo Alexa App for AWS DataPipeline
 
-Build using AWS Lambda.
+Build using AWS Lambda. Project to test capabilities of Voice Assistants in operational support.
 
 This Alexa App supports following tasks -
 
@@ -12,3 +12,9 @@ This Alexa App supports following tasks -
 3. Activate & Deactivate Datapipeline Job
 
 4. Pause, Resume , Cancel, Retry & Mark Finished Components within a Datapipeline Job
+
+.
+
+TO DO -
+
+1. Return shorter error messages
