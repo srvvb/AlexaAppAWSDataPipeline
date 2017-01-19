@@ -21,6 +21,10 @@ To Do -
 
 1. Return shorter error messages
 
+2. Removing of logging
+
+3. Validation of pin ,project , service with user & application id
+
 .
 
 AWS DataPipeline - https://aws.amazon.com/datapipeline/
