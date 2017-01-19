@@ -17,11 +17,13 @@ This Alexa App supports following tasks -
 
 .
 
-TO DO -
+To Do -
 
 1. Return shorter error messages
 
+.
 
 AWS DataPipeline - https://aws.amazon.com/datapipeline/
 
 AWS Lambda - https://aws.amazon.com/lambda/
+
